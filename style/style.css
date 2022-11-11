@@ -25,8 +25,27 @@ main article p{color: #E7E7E7;float: left; }
 .satauri6{margin-left: 300px;margin-top: 50px;}
 .satauri7{margin-left: 340px;margin-top: 50px;}
 .surati{width: 33%;float: left;height: 628px;padding: 14px;}
-
-footer .xazi2{width: 100%;height: 5px;background-color:#E7E7E7;margin-top: 900px; }
+footer .xazi2{width: 100%;height: 1px;background-color:#E7E7E7;margin-top: 900px; }
 
 .logo img{width: 100px;height: 100px;margin-left: 112px;margin-top: 50px;}
 .logop{color: #E7E7E7;font-size: 20px;margin-left: 228px;margin-top: -80px;}
+.product{width: 70%;height: 303px;display: flex;justify-content: space-around;margin-top: 47px;}
+.productimg img{width: 180px;height: 200px;}
+.product1{width: 70%;height: 303px;display: flex;justify-content: space-around;}
+.product p{color: #E7E7E7;justify-content: space-around;display: flex;}
+.product1 p{color: #E7E7E7;display: flex;justify-content: space-around;}
+main article a{color: #E7E7E7;}
+.convert{color: #E7E7E7;  font-family: semibold;}
+.about{width: 250px;height: 132px;margin-left: 950px;margin-top: -600px;}
+.convert1{width: 850px;height: 540px;margin: 92px 60px;display: flex;}
+.convert1 img{width: 350px;height: 540px;}
+.article{width: 450px;height: 29px;color: #E7E7E7;margin-left: 50px;font-family: semibold;}
+.article1{padding-top:  46px;    font-family: firago;word-spacing: 5px;}
+.article2{font-family: firago;padding-top: 10px;}
+.article3{font-family: firago;padding-top: 10px;}
+.convert2{width: 140px;height: 20px;}
+.convert2 .color{width: 20px;height: 20px;background-color:#F6B058;border-radius: 100%;margin-left: 170px;margin-top: -18px;}
+.color1{background-color: #3E93F6;width: 20px;height: 20px;border-radius: 100%;margin-left: 200px;margin-top: -19px;}
+.color2{background-color: #FF7070;width: 20px;height: 20px;margin-left: 230px;border-radius: 100%;margin-top: -20px;}
+.color3{width: 20px;height: 20px;background-color: #E8E8E8;margin-left: 260px;margin-top: -19px;border-radius: 100%;}
+.sheukvete{margin-top: 380px;font-family: semibold;}
